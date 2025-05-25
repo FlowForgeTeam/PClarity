@@ -11,7 +11,6 @@ PClarity is an open-source Windows application that helps you understand how you
 - 📊 **Automatic Time Tracking** - Track application usage without manual timers
 - 📈 **Productivity Analytics**  - Visualize your computer usage patterns
 - 💻 **System Monitoring**       - CPU, RAM, GPU usage in one place
-- 📤 **Export Reports**          - Generate invoices and timesheets for clients
 
 ## Why PClarity?
 
