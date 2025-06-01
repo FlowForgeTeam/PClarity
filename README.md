@@ -1,6 +1,8 @@
 # PClarity  
 > Desktop productivity analytics that respects your privacy  
 
+[🚀 Jump to Development Setup](#development-environment-setup)
+
 ## What is PClarity?  
 
 PClarity is an open-source Windows application that helps you understand how you spend time on your computer. Unlike cloud-based alternatives, all your data stays on your machine.  
