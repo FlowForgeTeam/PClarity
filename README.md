@@ -1,11 +1,19 @@
+![alt text](contents/Logo-tag.png)
 # PClarity  
-> Desktop productivity analytics that respects your privacy  
+
+>Desktop productivity analytics that respects your privacy
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Windows](https://img.shields.io/badge/platform-Windows-blue.svg)](https://www.microsoft.com/windows)
+![Open Source](https://img.shields.io/badge/open%20source-yes-brightgreen.svg)
 
 [🚀 Jump to Development Setup](#development-environment-setup)
 
 ## What is PClarity?  
 
 PClarity is an open-source Windows application that helps you understand how you spend time on your computer. Unlike cloud-based alternatives, all your data stays on your machine.  
+
+![alt text](contents/home-page.png)
 
 ## Key Features  
 
